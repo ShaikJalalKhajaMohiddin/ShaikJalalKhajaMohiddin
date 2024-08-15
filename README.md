@@ -6,7 +6,7 @@
 - 🔭 Present Working on personal projects involving Java, Spring Boot, and Web Development.
 - 🌐 Exploring new technologies like Machine Learning and Cloud Computing.
 - 💬 Ask me about Java, DSA, and Web Development.
-- 📫 How to reach me: 2200039122@cser@gmail.com | https://www.linkedin.com/in/shaikjalalkhajamohiddin
+- 📫 How to reach me: 2200039122cser@gmail.com | https://www.linkedin.com/in/shaikjalalkhajamohiddin
 - ⚡ Fun fact: I love problem-solving challenges and hackathons!
 
 ## 🔧 Technologies & Tools:
