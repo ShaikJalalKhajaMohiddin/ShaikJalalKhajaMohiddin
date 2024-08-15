@@ -1,4 +1,4 @@
-# Hi there, I'm SHAIK JALAL KHAJA MOHIDDIN 👋
+# Hi, I'm SHAIK JALAL KHAJA MOHIDDIN 👋
 
 ## 👨‍💻 About Me:
 - 🎓 I'm a B.Tech CSE Student (3rd Year) interested in Web Development and Problem Solving.
